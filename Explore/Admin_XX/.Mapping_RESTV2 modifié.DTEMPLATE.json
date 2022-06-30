@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "2HVGFaxEBZ7kfykaPgLKYN",
-    "name" : "Mapping_RESTV2",
+    "name" : "Mapping_RESTV2 modifié",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
