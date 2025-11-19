@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "First update",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-11-19T12:24:13.405Z",
+  "updateTime" : "2025-11-19T12:24:50.383Z",
   "objectRefs" : [ {
     "id" : "iUpGo8xwROQdHaAN2rjNsL",
     "name" : "IICS_XX_LocalCSVFile",
